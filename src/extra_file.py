@@ -1,1 +1,0 @@
-print("finishing 1st exercise")
